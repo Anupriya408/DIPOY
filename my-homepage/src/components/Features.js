@@ -1,5 +1,7 @@
 import React from 'react';
-import './Features.css';
+import '../styles/Feature.css';
+
+
 
 const Features = () => {
   return (
@@ -7,16 +9,16 @@ const Features = () => {
       <div className="container">
         <div className="row">
           <div className="col-md-4 text-center">
-            <h3>Feature 1</h3>
-            <p>Describe feature 1 here.</p>
+            <h3>HIGHER PROFITS</h3>
+            <p>We offer some of the lowest prices in the industry because print providers continuously compete to win your business.</p>
           </div>
           <div className="col-md-4 text-center">
-            <h3>Feature 2</h3>
-            <p>Describe feature 2 here.</p>
+            <h3>ROBUST SCALING</h3>
+            <p>Easily handle peak holiday seasons, with our wide network of partners and automatic routing functionality.</p>
           </div>
           <div className="col-md-4 text-center">
-            <h3>Feature 3</h3>
-            <p>Describe feature 3 here.</p>
+            <h3>BEST SELECTION</h3>
+            <p>With 900+ products and top quality brands, you can choose the best products for your business.</p>
           </div>
         </div>
       </div>

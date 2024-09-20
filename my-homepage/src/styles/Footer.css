@@ -1,0 +1,21 @@
+.banner {
+    background-image: url('https://printify.com/pfh/assets/animations/images/img_5.png');
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    color: white;
+  }
+  
+  .banner h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .banner p {
+    font-size: 1.5rem;
+  }
+  
+  .banner .btn {
+    margin-top: 20px;
+  }
+  
